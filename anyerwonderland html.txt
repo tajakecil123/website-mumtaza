@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>wanderland</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <header>
+ <h1>Pantai</h1>
+ </header>
+ 
+ <main>
+ <section class="wisata">
+ <h2> Pantai kuta</h2>
+ <img src="ayun ayunan.jpg" alt="Pantai kuta">
+ <p>Contohnya seperti pantai kuta yang memiliki view yang indah sehingga banyak wisatawan asing yang ingin berlibur di pantai kuta tersebut.</p>
+ </section>
+ 
+ <section class="wisata">
+ <h2>anyer wanderland</h2>
+ <img src="kereta.jpg" alt="pandawa">
+ <p>Selanjutnya juga Bali memiliki pantai Pandawa yang tidak kalah indah.</p>
+ </section>
+ 
+ <section class="wisata">
+ <h2>anyer wanderland</h2>
+ <img src="perosotan.jpg" alt="nusadua">
+ <p>Yang terakhir yaitu Pantai Nusa Dua, pantai ini juga memiliki keindahan yang alami yang indah sehingga banyak dikunjungi oleh wisata.</p>
+ </section>
+ </main>
+ 
+ <footer>
+ <p>&copy; 2025 Wisata Bali</p>
+ </footer>
+</body>
+</html>
